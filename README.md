@@ -1,2 +1,3 @@
-# simple-code-reviewer-n1l9
-A automated code review tool for modern development workflows
+# Simple Code Reviewer N1L9
+
+A automated code review tool for modern development workflows.
